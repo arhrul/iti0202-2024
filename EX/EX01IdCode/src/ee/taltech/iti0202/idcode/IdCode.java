@@ -107,7 +107,7 @@ public class IdCode {
             return "Kuressaarea";
         } else if (cityCode >= TARTU_FROM_1 && cityCode <= TARTU_TO_1
                 || cityCode >= TARTU_FROM_2 && cityCode <= TARTU_TO_2) {
-            return "Tartu";
+            return "Tartua";
         } else if (cityCode >= TALLINN_FROM_1 && cityCode <= TALLINN_TO_1
                 || cityCode >= TALLINN_FROM_2 && cityCode <= TALLINN_TO_2) {
             return "Tallinn";
