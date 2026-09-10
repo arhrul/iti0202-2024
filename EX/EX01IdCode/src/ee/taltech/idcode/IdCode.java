@@ -1,7 +1,7 @@
 package ee.taltech.iti0202.idcode;
 
 import java.util.List;
-
+    
 public class IdCode {
     public static final int ID_CODE_LENGTH = 11;
     public static final int TARTU_FROM_1 = 11;
