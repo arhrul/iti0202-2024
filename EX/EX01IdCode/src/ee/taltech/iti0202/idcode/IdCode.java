@@ -44,7 +44,7 @@ public class IdCode {
     }
 
     /**
-     * Method returns the id cod.
+     * Method returns the id code.
      *
      * @return id code.
      */
