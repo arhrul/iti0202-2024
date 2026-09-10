@@ -104,7 +104,7 @@ public class IdCode {
     public String getBirthPlace() {
         int cityCode = Integer.parseInt(idCodeValue.substring(7, 10));
         if (cityCode >= 1 && cityCode <= 10) {
-            return "Kuressaare";
+            return "Kuressaarea";
         } else if (cityCode >= TARTU_FROM_1 && cityCode <= TARTU_TO_1
                 || cityCode >= TARTU_FROM_2 && cityCode <= TARTU_TO_2) {
             return "Tartu";
