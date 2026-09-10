@@ -1,4 +1,4 @@
-package ee.taltech.iti0202.iti0202.idcode;
+package ee.taltech.iti0202.idcode;
 
 import java.util.List;
 
